@@ -72,7 +72,7 @@ nav .container {
   width: 6em;
   opacity: 0.9;
   height: 2em;
-  background-image: url(/img/image9.png);
+  background-image: url(../img/image9.png);
   display: inline-block;
 }
 
@@ -129,7 +129,7 @@ nav .container .call-us div:nth-child(2) {
 /* START HERO */
 
 header .hero {
-  background-image: url(/img/solar-panels-meadow.png);
+  background-image: url(../img/solar-panels-meadow.png);
   height: 90vh;
   background-size: 100% 90%;
   background-repeat: no-repeat;
@@ -287,7 +287,7 @@ main.page-content {
 
 /* START SECTION 2 */
 .section2 {
-  background: url(/img/81161.png);
+  background: url(../img/81161.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -389,7 +389,7 @@ main.page-content {
 /* END SECTION 3  */
 /* START SECTION 4  */
 .section4 {
-  background-image: url(/img/section4.png);
+  background-image: url(../img/section4.png);
   display: flex;
   background-size: cover;
   flex-direction: row;
@@ -490,7 +490,7 @@ main.page-content {
   width: 40px;
   opacity: 0.9;
   height: 2em;
-  background-image: url(/img/image9.png);
+  background-image: url(../img/image9.png);
   display: inline-block;
 }
 
